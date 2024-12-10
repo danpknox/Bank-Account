@@ -1,1 +1,1 @@
-# Bank-Account
+This project is a Bank Account Simulator designed to model the functionality of a banking system. The simulator is built with a structured object-oriented approach, featuring a BankAccount superclass and specialized subclasses for Savings, Checkings, and Certificate of Deposit (CDs) accounts. Each class provides tailored methods to represent the unique behaviors and rules associated with that account type, such as withdraw, deposit, accrue interest and maturity, and penalties and overdraft fees.
